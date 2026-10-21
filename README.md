@@ -34,8 +34,6 @@ A pasted prompt does not survive compaction word for word: harnesses summarise t
 
 Any model that can write files creates the same five files, with the same names, headings and rules. The wording of its replies differs from model to model. See [`tests/`](tests/) for the measurements.
 
-Gemini CLI reads `AGENTS.md` only when its `context.fileName` setting lists it.
-
 ## License
 
 MIT, see [LICENSE](LICENSE).
